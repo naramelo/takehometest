@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Cart_d-block img-fluid</name>
+   <tag></tag>
+   <elementGuidId>837c5de8-0891-492d-b894-1e3bd31d3905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselExampleIndicators']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.d-block.img-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f6eba91-4c3b-4087-9725-d265295f8666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-block img-fluid</value>
+      <webElementGuid>0c33585a-0f61-4b53-a607-044e7c6f81d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>Samsung1.jpg</value>
+      <webElementGuid>3f49a59b-224c-4ebd-814f-770f17c824eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>First slide</value>
+      <webElementGuid>fd63aba4-6e60-4803-ab09-ce48005567e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselExampleIndicators&quot;)/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;carousel-item active&quot;]/img[@class=&quot;d-block img-fluid&quot;]</value>
+      <webElementGuid>36085fc5-97a4-48f8-8a8d-ee86438978aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselExampleIndicators']/div/div/img</value>
+      <webElementGuid>aeda34c1-e096-464d-adcb-9e6a3a7e439b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='First slide']</value>
+      <webElementGuid>6de70202-a208-4b7c-a13f-e33015b91c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>1c304706-ddbf-47f9-bb6e-ae1581d2f2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'Samsung1.jpg' and @alt = 'First slide']</value>
+      <webElementGuid>8526180c-1d79-47da-84ff-77fb39a24e61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
